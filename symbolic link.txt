@@ -1,0 +1,2 @@
+C:\Users\nfireman>mklink %homepath%.vimrc %homepath%vimfiles\.vimrc
+symbolic link created for \Users\nfireman.vimrc <<===>> \Users\nfiremanvimfiles\.vimrc
